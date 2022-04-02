@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development , Web development
 - 🌱 I’m currently learning Back end works
 - 💞️ I’m looking to collaborate on Web development
-- 📫 How to reach me Peer Mohammed Mubeen (LinkedIn)
+- 📫 How to reach me Peer Mohammed Mubeen 
 
 <!---
 Mubeen02/Mubeen02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
